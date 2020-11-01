@@ -47,7 +47,7 @@ More stats in [octoprofile](https://octoprofile.now.sh/user?id=poteirard)
 
 
 
-## 📫 Get it ouch!
+## 📫 Get in touch!
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/gerardbrull/)
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/poteirard)
