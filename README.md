@@ -56,3 +56,4 @@ More stats in [octoprofile](https://octoprofile.now.sh/user?id=poteirard)
 ## 🙌 Credits in this profile README :)
 
 - Stats: https://github-readme-stats.vercel.app
+- Inspiration/ideas: https://github.com/abhisheknaiidu/awesome-github-profile-readme
