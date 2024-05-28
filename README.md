@@ -5,8 +5,11 @@
 ## ✍️ About me
 
 - Software developer mainly focused on web development and management
-- Creator of [@zopauk/react-components](https://github.com/zopaUK/react-components) (_the first OS library in Zopa!_)
-- Coding for about 10 years (mainly private repos unfortunately)
+- Creator of:
+  - [@zopauk/react-components](https://github.com/zopaUK/react-components) (_the first OS library in Zopa!_)
+  - Official website of a non-lucrative music festival [Move Your Fcking Brain Extreme Fest](https://myfbef.metaldefenders.com)
+- Coding for about 12 years (mainly private repos unfortunately)
+- Managing engineering teams for 5 years
 - I like every food I tried except bananas 🍌
 
 
@@ -16,6 +19,8 @@
 - 🔭 Astronomy enthusiast 
 - 🎸 Concert addict
 - 📸 Photography
+- 🪴 Gardening
+- ☕️ Espresso nerd
 
 
 ## 📈 Stats
